@@ -77,7 +77,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Project's social card
-      image: 'img/cenos-96.png',
+      image: 'img/cenos-charging.png',
       navbar: {
         title: 'CENOS™ Wireless Charging',
         logo: {
