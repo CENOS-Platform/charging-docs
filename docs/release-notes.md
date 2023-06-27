@@ -4,7 +4,7 @@ title: Release Notes
 sidebar_position: 2
 ---
 
-## v1.2 (June 22, 2023)
+## v1.2 (June 27, 2023)
 Features:
 
 * Integration with LTspice circuit simulator
