@@ -4,7 +4,25 @@ title: Release Notes
 sidebar_position: 2
 ---
 
+## v1.3 (August 11, 2023)
+
+Features:
+
+* Coil heating
+* N87 ferrite material
+* New Ferrite Surface and Coil Surface role to Geometry Roles
+
+Improvements:
+
+* Hysteresis loss calculation is enabled by default for ferrites
+* Added tooltips for magnetization definition
+* Renamed Tx and Rx stranded coil sources for increased clarity
+* Ferrite is now automatically defined as electrically non-conductive
+* Added RMS indication for current and voltage inputs
+
+
 ## v1.2 (June 27, 2023)
+
 Features:
 
 * Integration with LTspice circuit simulator
@@ -22,7 +40,6 @@ Bugfixes:
 * Fixed a bug which crashed air domain generation if imported geometry contained smaller holes
 * Fixed a bug where, if adaptive time step is used, steps in the middle were not saved
 * Fixed an issue which caused unphysical ferrite heating in some cases
-
 
 
 ## v1.1 (March 17, 2023)
