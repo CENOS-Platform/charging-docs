@@ -4,6 +4,23 @@ title: Release Notes
 sidebar_position: 2
 ---
 
+## v1.4 (September 12, 2023)
+
+Features:
+
+* Mesh inspection
+* Radiation losses
+* Single Tx assembly simulations
+
+Improvements:
+
+* Greatly improved PDF report layout
+
+Bugfixes:
+
+* Updated meshing algorithm, which can now mesh cases which failed previously
+
+
 ## v1.3 (August 11, 2023)
 
 Features:
