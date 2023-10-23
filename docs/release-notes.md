@@ -4,6 +4,30 @@ title: Release Notes
 sidebar_position: 2
 ---
 
+## v1.5 (October 23, 2023)
+
+Features:
+
+* Current/voltage table input
+* Phase shift table input
+* Surface Currents approach for extremely thin coils
+* Advanced current density calculation algorithm
+
+Improvements:
+
+* Stray losses are now separated by domains and shown in .csv file
+
+Bugfixes:
+
+* Fixed a bug where domain names in Time Charts were displayed without assigned names from physics
+* Fixed an issue which caused cases with enabled conductor heating and complex motion to fail
+* Fixed a bug where values in the .csv file were duplicated if Steady state is selected
+* Fixed an issue where some mutual values were missing from the .csv file
+* Fixed a bug where cases fail if B(H) curve is enabled in physics
+* Fixed a bug which did not apply phase shift to coils if it was enabled
+
+
+
 ## v1.4 (September 12, 2023)
 
 Features:
