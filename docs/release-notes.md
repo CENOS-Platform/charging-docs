@@ -4,6 +4,29 @@ title: Release Notes
 sidebar_position: 2
 ---
 
+## v1.6 (December 7, 2023)
+
+Features:
+
+* Geometry, Physics and Mesh sections can now be opened during calculation
+* Iterative/direct solver and mesh element order control
+* Application filter
+
+Improvements:
+
+* Mesh inspection now embedded in CENOS UI
+* Reworked navigation bar
+* Mesh size check
+
+Bugfixes:
+
+* Now all coils by default are oriented in the same direction
+
+Other:
+
+* Updated [Terms & Conditions](https://www.cenos-platform.com/terms-conditions)
+
+
 ## v1.5 (October 23, 2023)
 
 Features:
