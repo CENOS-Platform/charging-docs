@@ -1,7 +1,7 @@
 ---
 id: release-notes-v1
-title: Release Notes v1.x
-sidebar_position: 3
+title: v1.x
+sidebar_position: 4
 ---
 
 

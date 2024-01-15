@@ -1,7 +1,7 @@
 ---
 id: latest
-title: Release Notes
-sidebar_position: 2
+title: v2.x
+sidebar_position: 3
 ---
 
 ## v2.0 (January 9, 2024)
