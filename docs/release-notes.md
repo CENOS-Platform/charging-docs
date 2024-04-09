@@ -4,6 +4,23 @@ title: Release Notes
 sidebar_position: 2
 ---
 
+## v2.1 (April 9, 2024)
+
+Features:
+
+* Load definition on Receiver coil can now be defined directly in CENOS
+* Negative mutual inductance values can be calculated in results
+
+Improvements:
+
+* 3D view PNG images can now be exported directly from 3D result view
+
+Bugfixes:
+
+* Fixed an issue with mesh curving, which for some cases caused unphysical mesh spikes to appear in results
+
+
+
 ## v2.0 (January 9, 2024)
 
 Features:
