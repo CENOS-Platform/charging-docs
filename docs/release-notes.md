@@ -4,6 +4,26 @@ title: Release Notes
 sidebar_position: 2
 ---
 
+## v2.2 (May 14, 2024)
+
+Features:
+
+* Rectangular and circular strand definition
+
+Improvements:
+
+* Improved coil physics tab UI by adding explanatory images to the input parameters
+* Results of the previous run are no longer saved if case is recalculated, reducing case size
+* Improved accuracy in cases with voltage and/or defined load
+* Improved solver stability if Accurate algorithm was selected
+* Improved quality of automatic meshing algorithms
+
+Bugfixes:
+
+* Fixed an issue where calculation was stopped if internet connection was lost
+* Fixed a bug which caused radiation calculation to provide inaccurate results
+
+
 ## v2.1 (April 9, 2024)
 
 Features:
