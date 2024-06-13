@@ -4,7 +4,7 @@ title: Release Notes
 sidebar_position: 2
 ---
 
-## v2.2.1 (May 14, 2024)
+## v2.2.1 (June 13, 2024)
 
 Improvements:
 
