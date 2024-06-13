@@ -4,6 +4,22 @@ title: Release Notes
 sidebar_position: 2
 ---
 
+## v2.2.1 (May 14, 2024)
+
+Improvements:
+
+* Improved stability of Template generation
+* Improved visual content distribution for PDF reports
+
+Bugfixes:
+
+* Fixed license-related issue that blocked calculation in specific cases
+* Fixed a bug that did not allow to disable skin layers in mesh
+* Fixed an issue which caused PDF generation to fail if boundary conditions are not set up
+* Fixed a bug that did not allow to visualize results if Receiver coil was not present in case
+* Fixed a bug which allowed Trame to be open only once for a case in specific situations
+
+
 ## v2.2 (May 14, 2024)
 
 Features:
