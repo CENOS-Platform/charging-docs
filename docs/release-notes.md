@@ -4,6 +4,16 @@ title: Release Notes
 sidebar_position: 2
 ---
 
+## v2.2.2 (July 18, 2024)
+
+Bugfixes:
+
+* Fixed a bug which did not allow sliced mesh to update if user recalculated the case while mesh cutting was enabled
+* Fixed an issue which caused magnetic field slice visualization to appear empty
+* Fixed issue which did not allow user to stop calculation
+* Fixed issue which did not allow user to stop mesh generation
+
+
 ## v2.2.1 (June 13, 2024)
 
 Improvements:
