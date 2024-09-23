@@ -4,6 +4,26 @@ title: Release Notes
 sidebar_position: 2
 ---
 
+## v2.2.3 (September 23, 2024)
+Features:
+
+* Added support for Simulation Manager
+
+Improvements:
+
+* Improved stability of remeshing, which affects cases with Motion
+
+Bugfixes:
+
+* Fixed an issue where due to slow frontend response input values glitched and switched back to previous ones
+* Fixed a bug where after saving CENOS still thought the case was not saved
+* Fixed a bug where results did not show up if Other geometry role was used
+* Fixed a bug where mutual value polarizations changed unpredictably during calculation
+* Fixed a bug where CENOS allowed to share case with results, even if the results were not calculated
+* Fixed a bug which did not allow to STOP calculation if calculation process went wrong
+* Fixed a bug which in .csv file calculated 2x larger active power on coils than it was in reality
+
+
 ## v2.2.2 (July 18, 2024)
 
 Bugfixes:
