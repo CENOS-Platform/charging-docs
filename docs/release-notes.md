@@ -8,6 +8,7 @@ sidebar_position: 2
 Features:
 
 * Added support for Simulation Manager
+
 Improvements:
 
 * Improved stability of remeshing, which affects cases with Motion
