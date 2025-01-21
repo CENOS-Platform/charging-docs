@@ -4,6 +4,26 @@ title: Release Notes
 sidebar_position: 2
 ---
 
+## v2.3 (January 21, 2025)
+
+Features:
+
+* Reworked Result Viewer which enables even more intuitive and easy result evaluation
+
+Improvements:
+
+* Improved PDF report source image generation
+* Significantly improved automatic meshing algorithm quality and stability
+
+Bugfixes:
+
+* Fixed connectivity issues which blocked some users from using the latest version
+* Fixed a bug which appeared when user manually tried to change any material property value
+* Fixed an issue with skin layer mesh elements causing unphysical Eddy loss field distribution
+* Fixed a bug which allowed calculation to be run if no applied voltage or current was defined
+* Fixed a bug which caused moving objects to jump around if Complex Motion was enabled
+
+
 ## v2.2.3 (September 23, 2024)
 Features:
 
