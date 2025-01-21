@@ -4,7 +4,7 @@ title: Release Notes
 sidebar_position: 2
 ---
 
-## v2.3 (January 20, 2025)
+## v2.3 (January 21, 2025)
 
 Features:
 
