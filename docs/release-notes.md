@@ -4,6 +4,21 @@ title: Release Notes
 sidebar_position: 2
 ---
 
+## v2.4 (March 29, 2025)
+
+Improvements:
+
+* Significantly improved Result Viewer stability and filter accuracy
+* Result saving speed is increased in cases with Complex motion
+* Added possibility to zip and share log files directly from CENOS
+  
+Bugfixes:
+
+* Fixed an issue which did not send attachments with first chat message
+* Fixed a bug which made mesh disappear when mesh cutting was used on a single domain
+* Fixed a bug in remeshing, which caused some cases to fail when calculating with complex motion and for a longer period of time
+* Fixed a bug which caused results to be lost if case crashed in the middle of calculation
+
 ## v2.3 (January 21, 2025)
 
 Features:
