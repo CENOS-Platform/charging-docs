@@ -4,6 +4,25 @@ title: Release Notes
 sidebar_position: 2
 ---
 
+## v2.5 (June 13, 2025)
+Features:
+
+* Hysteresis and Eddy losses can now be calculated for one domain simultaneously
+* Users can now use Save As… function to save their case with a different name, but without the results
+
+Improvements:
+
+* During case loading a progress bar is now visible to notify users about progress
+* Added FPL 100 ferrite to our material database
+* Plot Over Line, Temperature Probe and Ruler filter customizations are now saved automatically in Result Viewer
+
+Bugfixes:
+
+* Fixed a bug with preview window, where geometry randomly zoomed in when users moved their mouse across the preview screen
+* Symmetry definition is now working, with multiple issues fixed from previous versions
+
+
+
 ## v2.4 (March 29, 2025)
 
 Improvements:
