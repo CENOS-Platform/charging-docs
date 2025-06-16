@@ -4,7 +4,7 @@ title: Release Notes
 sidebar_position: 2
 ---
 
-## v2.5 (June 13, 2025)
+## v2.5 (June 16, 2025)
 Features:
 
 * Hysteresis and Eddy losses can now be calculated for one domain simultaneously
